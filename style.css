@@ -1,0 +1,78 @@
+body{
+	height: 1600px;
+}
+
+#ocean img{
+	position: fixed;
+	left: 750px;
+	margin-left: -500px;
+	top: 100px;
+	width: 1000px;
+	height: 
+
+}
+
+#lava img{
+	position: fixed;
+	width: 250px;
+	margin: 0;
+	padding: 0;
+
+}
+
+#lava{
+	position: fixed;
+	left: 750px;
+	margin-left: -500px;
+	top: 100px;
+
+}
+
+#one{
+	display: none;
+}
+
+#two{
+	left: 500px;
+	display: none;
+
+}
+
+#three{
+	left: 750px;
+	display: none;
+
+}
+
+#four{
+	left: 1000px;
+	display: none;
+	
+}
+
+#five{
+	top: 355px;
+	display: none;
+	
+}
+
+#six{
+	top: 355px;
+	left: 500px;
+	display: none;
+	
+}
+
+#seven{
+	top: 355px;
+	left: 750px;
+	display: none;
+
+}
+
+#eight{
+	top: 355px;
+	left: 1000px;
+	display: none;
+
+}
